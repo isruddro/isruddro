@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Protap Ruddrodeb Sarker</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer</h3>
 
-- 👨‍💻 Resume at https://www.linkedin.com/in/ruddro-dev](https://www.linkedin.com/in/ruddro-dev
+- 👨‍💻 Linkedin https://www.linkedin.com/in/ruddro-dev](https://www.linkedin.com/in/ruddro-dev
 
 - 💬 Ask me about **CSS, React, Angular, .NET, MERN, MEAN**
 
 - 📫 How to reach me **protaplpuid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zhFx9pXqPZgHJCekKpJxB1zcse5zYlvP/view?usp=sharing)
+- 📄 Resume at https://drive.google.com/file/d/1zhFx9pXqPZgHJCekKpJxB1zcse5zYlvP/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
