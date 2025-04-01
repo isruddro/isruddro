@@ -3,7 +3,7 @@
 
 - 👨‍💻 Linkedin https://www.linkedin.com/in/ruddro-dev/
 
-- 💬 Ask me about **CSS, React, Angular, .NET, MERN, MEAN**
+- 💬 Ask me about **CSS, React, Angular, .NET**
 
 - 📫 How to reach me **protaplpuid@gmail.com**
 
