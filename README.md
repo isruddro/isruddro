@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **protaplpuid@gmail.com**
 
-- 📄 Resume at [https://drive.google.com/file/d/1pwaTfWN208fCRN7rU8Spwf8n_asivhpR/view?usp=sharing](https://drive.google.com/drive/folders/1xBw01YNjDYKEqZC6XOLq3w3Rojua-olm?usp=drive_link)
+- 📄 Resume at https://drive.google.com/file/d/1pwaTfWN208fCRN7rU8Spwf8n_asivhpR/view
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ruddro-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruddro-dev" height="30" width="40" /></a>
