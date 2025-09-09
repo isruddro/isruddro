@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Protap Ruddrodeb Sarker</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer</h3>
 
-- 👨‍💻 Linkedin https://www.linkedin.com/in/ruddro-dev/
+- 👨‍💻 Linkedin https://www.linkedin.com/in/isruddro/
 
 - 💬 Ask me about **CSS, Angular, .NET**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/u/ruddro-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ruddro-dev/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/isruddro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/isruddro/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
