@@ -3,7 +3,7 @@
 
 - 👨‍💻 Linkedin https://www.linkedin.com/in/isruddro/
 
-- 💬 Ask me about **CSS, Angular, .NET**
+- 💬 Ask me about **DSA, CSS, Angular, .NET**
 
 - 📫 How to reach me **protaplpuid@gmail.com**
 
